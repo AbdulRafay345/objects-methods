@@ -1,0 +1,23 @@
+header,
+footer {
+    background-color: #024;
+}
+
+.btn-danger {
+    display: block;
+    width: 40vh;
+}
+
+img {
+    width: 270px;
+    height: 200px;
+}
+
+input,
+.btn-success {
+    width: 35vh;
+}
+
+#output {
+    min-height: 120px;
+}
